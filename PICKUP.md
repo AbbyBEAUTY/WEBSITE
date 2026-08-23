@@ -4,13 +4,20 @@ Updated: 2026-08-23
 
 ## Current state
 
-- Baseline live commit preserved: `b08b92dbddc8571c4000723b3f0af5b9fbb34427`.
-- Technical SEO foundation is being prepared on `seo/technical-foundation-2026-08-23`; it is not yet committed, pushed, previewed, or deployed.
-- Production origin: `https://abi-beauty-honduras.vercel.app`; clean canonical routes are enabled by existing Vercel configuration.
-- The restored `assets/images/collection/set-33/30-sparkles.webp` is the authoritative stage asset and must not be replaced with a zero-byte archive copy.
+- Canonical repository: `AbbyBEAUTY/WEBSITE`, branch `main`.
+- Consumer-positioning and Shipito milestone merged in PR #2 at `58b44655b9e98a2655d5283590c4fb4795f6accc` (content commit `55786e9`).
+- Production: `https://abi-beauty-honduras.vercel.app`, Vercel project `abi-beauty-honduras`.
+- Homepage leads with consumer beauty discovery, product suitability, Amazon purchasing, and Honduras delivery. Brand/UGC services are secondary in the footer.
+- Shipito is the default documented route. It is an external service; fees, restrictions, carriers, insurance, customs, and transit claims require dated official verification.
+- The current buyer guide remains at `/how-to-buy`. The future clean URL `/guias/comprar-amazon-honduras/` must launch with an atomic redirect/canonical/navigation/sitemap update.
+- The next two planned shipping pages are `/envios/casillero-estados-unidos-honduras/` and `/herramientas/calculadora-envio-honduras/`.
 - Amazon and social URLs remain pending and disabled until supplied and verified.
-- A browser-only educational qualification prototype is preserved at `C:\Abby Beauty\_future\beauty-import-readiness`. It is intentionally excluded from this Phase 1 branch, navigation, and sitemap until the Honduras SERP map validates its place.
+- The educational qualification prototype remains outside production at `C:\Abby Beauty\_future\beauty-import-readiness`.
 
-## Release gate
+## Next milestone
 
-Review the diff and verify all five production pages, clean routes, canonicals, social images, JSON-LD, navigation, desktop/mobile behavior, images, missing resources, and console output on preview. Production must point to the exact reviewed commit. Never expose Supabase service-role credentials or use RSG infrastructure.
+Build the first three Shipito cluster pages from the supplied research, beginning with the master Amazon-to-Honduras guide. Treat the calculator as an educational estimator that exposes unknown inputs; never imply guaranteed customs, carrier, price, or delivery outcomes. Run preview-first desktop/mobile and five-page regression QA before production.
+
+## Infrastructure boundary
+
+Use only Abby infrastructure. Never expose Supabase service-role credentials and never use or reference RS Gonzales infrastructure.
