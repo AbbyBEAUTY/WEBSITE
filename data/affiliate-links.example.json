@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "links": [
+    {
+      "id": "amazon-example-product",
+      "status": "pending",
+      "network": "Amazon Associates",
+      "merchant": "Amazon",
+      "market": "TBD",
+      "productOrTopic": "TBD",
+      "destinationUrl": "",
+      "contentPaths": [],
+      "disclosureRequired": true,
+      "verifiedAt": null,
+      "verifiedBy": null,
+      "notes": "Replace this example only after Abi supplies an approved link."
+    }
+  ]
+}
