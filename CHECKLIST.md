@@ -13,4 +13,14 @@
 - [x] Preserve the educational-tool prototype outside Phase 1 pending SERP validation
 - [x] Verify all five production pages locally at desktop and mobile sizes
 - [x] Verify local references, JavaScript, JSON-LD, XML, and Git diff
-- [ ] Commit and push SEO branch for deployment coordination
+- [x] Commit and push SEO branch for deployment coordination
+
+## Consumer positioning and Shipito route
+
+- [x] Keep consumer shopping help as the homepage's primary story
+- [x] Make Shipito the named default documented route
+- [x] Update shipping roadmap and inventory from supplied research
+- [x] Add current official Shipito sources, qualifications, and review date
+- [x] Verify homepage and buyer guide at desktop and mobile sizes
+- [x] Verify links, structured data, images, console, and missing resources
+- [x] Review diff, commit, preview, and promote only after QA
