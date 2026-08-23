@@ -4,17 +4,34 @@ Abi Beauty should build a durable, interconnected reference library for buying a
 
 ## Planned cluster
 
-- Hub: shipping beauty products to Honduras
-- Verified provider profile based on Abi's real experience
-- Fair provider comparison with published methodology
+- Master guide: how to buy from Amazon in Honduras using Shipito
+- Complete Shipito-to-Honduras walkthrough
+- Educational landed-cost calculator for Shipito orders
 - Educational product-import readiness assessment with a personalized task list
 - Landed-cost explainer with transparent worked examples
-- Restricted beauty items from current official sources
+- Restricted beauty items using Shipito's current tool and carrier-specific sources
 - Shipping timelines separated by journey stage
 - Mistakes and troubleshooting without rule circumvention
 - Focused FAQ linking to authoritative resources
 
-Provider identity is blocked: the current site says `Shipito`, while user context also mentioned `ShipItTo`. Verify the official name, legal entity, and URL before publishing provider-specific pages, claims, logos, or affiliate links.
+Shipito is the default documented route. The first permanent URLs planned for the clean hierarchy are:
+
+1. `/guias/comprar-amazon-honduras/` — Cómo comprar en Amazon desde Honduras usando Shipito
+2. `/envios/casillero-estados-unidos-honduras/` — Guía completa de Shipito para Honduras, paso a paso
+3. `/herramientas/calculadora-envio-honduras/` — Calculadora del costo total de traer maquillaje con Shipito
+
+The current MVP route `/how-to-buy` remains canonical until the first clean-URL release. That release must add its redirect, update navigation, canonicals, breadcrumbs, sitemap entries, and internal links atomically.
+
+Official sources for every review cycle:
+
+- [Shipito: shipping to Honduras](https://www.shipito.com/en/buy-from-US-ship-to-Honduras)
+- [Shipito: shipping methods and warehouse details](https://www.shipito.com/en/help/postage)
+- [Shipito: consolidation](https://www.shipito.com/en/help/faq/services)
+- [Shipito: customs declarations and duties](https://www.shipito.com/en/help/faq/customs)
+- [Shipito: insurance and claims](https://www.shipito.com/en/help/faq/claims)
+- [Shipito: prohibited and restricted items](https://www.shipito.com/en/help/tutorials/prohibited-items)
+
+Never convert Shipito's “as little as” transit language into a purchase-to-door promise. Distinguish warehouse transfers, processing, carrier transit, customs, and final delivery. Explain that insurance is optional and coverage types and exclusions differ. The consumer remains responsible for declarations, duties, taxes, and destination compliance.
 
 ## Required page anatomy
 

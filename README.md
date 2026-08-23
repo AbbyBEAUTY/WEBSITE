@@ -17,7 +17,7 @@ The production origin above is authoritative until an approved custom domain rep
 
 Public affiliate destinations are centralized in `data/affiliate-links.js`. `data/affiliate-links.example.json` documents the richer intake schema; `affiliate-links-intake.csv` tracks pending destinations. Credentials and private keys never belong in browser code.
 
-`SEO-ARCHITECTURE.md` defines the overall brand/product/category/guide/tool system. `SEO-RESOURCE-PAGES.md` and `data/seo-page-inventory.csv` define the first evergreen shipping-to-Honduras cluster. Provider identity remains blocked until `Shipito` versus `ShipItTo` is verified.
+`SEO-ARCHITECTURE.md` defines the overall brand/product/category/guide/tool system. `SEO-RESOURCE-PAGES.md` and `data/seo-page-inventory.csv` define the first evergreen shipping-to-Honduras cluster. Shipito is the default documented route. Treat it as an external service whose current fees, restrictions, carriers, transit estimates, and terms must be verified from official sources whenever a shipping page is reviewed.
 
 `ASSET-CONTENT-MAP.md` assigns the generated image library to future reviews, comparisons, routines, logistics resources, educational tools, and category pages without treating decorative imagery as firsthand product evidence.
 

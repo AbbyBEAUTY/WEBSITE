@@ -19,6 +19,8 @@ Thin pages made from a retailer image, copied description, and affiliate button 
 ├── skincare/
 ├── guias/
 │   └── [guia]/
+├── envios/
+│   └── [recurso-shipito-honduras]/
 ├── opiniones/
 └── herramientas/
     └── [herramienta-educativa]/
@@ -29,6 +31,12 @@ The current flat static routes are the MVP. New page families should follow the 
 ## Honduras-first targeting
 
 Prioritize brand, product, category, online-buying, import, comparison, and suitability searches where Honduras-specific usefulness is the differentiator. Final priorities must come from a current Honduras SERP and competitor map, not intuition alone.
+
+## Default documented shipping route
+
+Shipito is the default route Abi Beauty documents for Amazon purchases sent from the United States to Honduras. The core learning path is Amazon product decision → Shipito US address → customs declaration → available carrier selection → shipping payment → possible Honduran duties or taxes → delivery.
+
+This is a documentation choice, not a guarantee, endorsement of every shipment, or claim that Shipito is always the cheapest option. Every product recommendation must send readers to Shipito's current restricted-items tool before purchase when ingredients, liquids, alcohol, aerosols, batteries, or carrier rules could matter. Fees, warehouse routing, insurance, carrier availability, customs obligations, and transit estimates require dated official-source verification.
 
 ## Content graph
 
@@ -69,3 +77,4 @@ Tools should teach and qualify rather than manufacture certainty. A useful tool:
 - Clear affiliate/referral/sponsorship disclosures.
 - Original images and video mapped to pages where they materially support the answer.
 - Current-source verification and visible update dates for changeable shipping or customs claims.
+- Shipito as the named default documented route, with alternatives discussed only where a consumer decision genuinely requires comparison.
