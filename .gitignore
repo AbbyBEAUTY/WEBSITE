@@ -1,0 +1,18 @@
+# Local secrets and credentials
+.env/
+.env.local
+.env.*.local
+!.env.example
+
+# Local tooling and operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+
+# Temporary archives/backups are not website source
+*.zip
+backups/
+
+.vercel
+.env*

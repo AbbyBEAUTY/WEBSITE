@@ -1,0 +1,2 @@
+request_id,page_id,planned_url,visual_job,asset_type,aspect_ratios,status,prompt_owner,asset_owner,source_or_provenance,alt_text_intent,notes
+phase1-none,technical-seo-existing-site,,No new asset required; existing production images verified,existing,"existing",complete,Codex,Abi,repository assets,,Open new rows only after SERP-backed page selection
