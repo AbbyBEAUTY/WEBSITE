@@ -6,6 +6,7 @@ Updated: 2026-08-23
 
 - Canonical repository: `AbbyBEAUTY/WEBSITE`, branch `main`.
 - Consumer-positioning and Shipito milestone merged in PR #2 at `58b44655b9e98a2655d5283590c4fb4795f6accc` (content commit `55786e9`).
+- Abby homepage hero milestone merged in PR #3 at `9bc2eb7efa1ad4befcefaa5a66587b0ca51a6323` (content commit `f0b6be1`). The optimized source is `assets/images/editorial/abi-homepage-portrait.webp`; preserve the original supplied JPG outside the repository.
 - Production: `https://abi-beauty-honduras.vercel.app`, Vercel project `abi-beauty-honduras`.
 - Homepage leads with consumer beauty discovery, product suitability, Amazon purchasing, and Honduras delivery. Brand/UGC services are secondary in the footer.
 - Shipito is the default documented route. It is an external service; fees, restrictions, carriers, insurance, customs, and transit claims require dated official verification.
